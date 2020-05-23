@@ -21,7 +21,7 @@ exit()
 ```txt
 https://simpleflaskapp98.herokuapp.com/auth/user/registration
 ```
-with below json body
+- with below json body
 ```json
 {
 	"username":"Kush",
